@@ -1,12 +1,11 @@
 ## Hi 👋 My name is Bannarak Bannasan
+- 🔭 I am a computer engineering student from RMUTP
 <img src="https://komarev.com/ghpvc/?username=bannarakb&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dtZ2xpeGNmcWlxd2lzc2s5dDJ4cnJoM3ZrcW8wanIwMG04ZG9kOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
 </div>
 
-
-- 🔭 I am a computer engineering student from RMUTP
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
